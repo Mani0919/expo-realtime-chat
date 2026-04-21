@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310641377678",
+    "project_id": "real-time-chat-33925",
+    "storage_bucket": "real-time-chat-33925.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310641377678:android:107b8f31abfd5ae0fee4df",
+        "android_client_info": {
+          "package_name": "com.crazy_mani.realtimechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk8yzrfDS9NWnYBoaM4rQ6bnP0vG4bMBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
